@@ -1,4 +1,6 @@
 rencana kuliah
 - organisasi
+1. HIMA
+2. BEM
 - UKM
 - matkul wajib 
